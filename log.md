@@ -42,6 +42,57 @@ What makes this journey exciting is that I am relearning Python not just for mys
 
 ---
 
+### Day 2 - Data Structure (continues)
+
+#### June 9, 2026
+
+---
+
+## Focus
+
+Today’s learning focused on Python data structures, including how to combine them effectively and when to choose the right structure for a specific problem. I also continued working on the ClydeBank Coffee Shop Simulator project.
+
+## Progress
+
+- Learned about multidimensional lists
+- Practiced choosing the appropriate data structure for different scenarios
+- Started building the ClydeBank Coffee Shop Simulator
+- Implemented the main game loop for the simulator
+
+## Thoughts
+
+Another fun and productive day learning Python data structures. I experimented with multidimensional lists and explored different ways to access and manipulate list elements.
+
+I also continued developing the ClydeBank Coffee Shop Simulator by building the main game loop. The project is still in its early stages, so the code contains a lot of repetition and comments, but it is helping me better understand program structure and logic.
+
+One of the biggest lessons I learned today is that Python data structures help organize data efficiently and logically:
+
+- **Lists** store collections of ordered items
+- **Tuples** are immutable collections
+- **Sets** only contain unique values
+- **Dictionaries** store data using key-value pairs
+
+Overall, today helped strengthen my understanding of how and when to use Python’s core data structures in real projects.
+
+---
+
+## Challenges
+
+- Understanding when to use lists versus dictionaries
+- Avoiding repetitive code in the simulator
+- Organizing multidimensional data clearly
+
+---
+
+## Tomorrow's Goal
+
+- controling program flow
+- continue working on the  ClydeBank Coffee Shop Simulator
+```
+
+**Work & Resources**:
+
+NONE
 
 ---
 
